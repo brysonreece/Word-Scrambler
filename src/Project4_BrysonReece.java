@@ -4,12 +4,7 @@ import java.util.Scanner;
 
 /*
  * @title: Word Scrambler
- * @project: four
  * @author: Bryson Reece
- * 
- * @class: CS 1323
- * @professor: Sarah Wu
- * @university: University of Oklahoma
  * 
  * @description: This program rearranges the letters of given
  * inputs. Useful for games like Scrabble(TM).
